@@ -35,16 +35,6 @@ Listify is a simple and elegant task management application designed to help you
    git clone https://github.com/your-username/Listify.git
 2.Navigate to the project folder
    cd Listify
-3.Folder Structure
-The project has the following structure:
-listify/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles for the app
-├── app.js              # JavaScript for functionality
-├── img/                # Folder containing image assets
-│   ├── edit-icon.png   # Edit task icon
-│   ├── bin.png         # Delete task icon
-├── README.md           # Project documentation
 
 # Usage
 
