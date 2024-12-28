@@ -46,30 +46,30 @@ listify/
 │   ├── bin.png         # Delete task icon
 ├── README.md           # Project documentation
 
-#Usage
+# Usage
 
-#Adding a Task
+## Adding a Task
 Enter the task description in the input field.
 Click the + button or press Enter to add the task to the list.
 
-#Editing a Task
+## Editing a Task
 Click the Edit icon beside the task.
 Modify the task description and click the Save button.
 
-#Deleting a Task
+## Deleting a Task
 Click the Delete icon beside the task to remove it from the list.
 
-#Marking a Task as Completed
+## Marking a Task as Completed
 Click the checkbox beside the task to mark it as completed.
 The task will be crossed out and will be included in the task completion count.
 
-#Progress Tracking
+## Progress Tracking
 The progress bar will update as tasks are marked as completed. Once all tasks are completed, a confetti animation will play.
 
-#Contributing
+## Contributing
 We welcome contributions to this project. To contribute:
 
-##Fork the repository.
+## Fork the repository.
 
 Create a new branch (git checkout -b feature/your-feature-name).
 Make your changes and commit (git commit -am 'Add new feature').
